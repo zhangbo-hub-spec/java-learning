@@ -107,20 +107,18 @@ public class BubbleSort {
             for (int i = 0; i < str.length(); i++) {
                 arr[i] = str.charAt(i);
             }
-//        sorting.BubbleSort(nums);
             if (chooseBubbleSort) {
                 BubbleSortImprove_Des(arr);
             } else {
                 BubbleSortImprove_Asc(arr);
             }
 
-//        System.out.println(Arrays.toString(arr));
-            String str_Asc = "";
+            String str_Res = "";
             for (int i = 0; i < str.length(); i++) {
-                str_Asc += (char) arr[i];
+                str_Res += (char) arr[i];
             }
             System.out.println("输入字符串：" + str);
-            System.out.println("有序字符串：" + str_Asc);
+            System.out.println("有序字符串：" + str_Res);
             System.out.println("ASCII码值为：" + Arrays.toString(arr));
 
             System.out.println("输入-1以结束排序,继续则任意输入即可");
