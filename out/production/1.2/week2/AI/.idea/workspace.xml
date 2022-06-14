@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45e6881c-e0e9-43e3-8457-c8053ef5c4df" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../result_img/BubbleSort.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../result_img/week1/BubbleSort.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../result_img/GuessNumber.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../result_img/week1/GuessNumber.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../result_img/MultiTable.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../result_img/week1/MultiTable.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../result_img/Score.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../result_img/week1/Score.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week1/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GuessNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week1/GuessNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MultiTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week1/MultiTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Score.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week1/Score.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helloworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week1/helloworld.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2AZD7JFnqFaXBnTMxelFhgca5Do" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/homework/java/week1_homework"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="45e6881c-e0e9-43e3-8457-c8053ef5c4df" name="变更" comment="" />
+      <created>1655208044818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655208044818</updated>
+    </task>
+    <servers />
+  </component>
+</project>
