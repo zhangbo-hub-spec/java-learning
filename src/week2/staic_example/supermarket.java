@@ -1,4 +1,4 @@
-package staic_example;
+package week2.staic_example;
 
 public class supermarket {
 
